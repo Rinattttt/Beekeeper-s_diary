@@ -1,8 +1,8 @@
 # 🐝 Дневник пчеловода 
 
-* Cсылка на вики для ознакомления с разработкой проекта: https://github.com/Rinattttt/Beekeeper-s_diary/wiki
+  [Cсылка на вики для ознакомления с разработкой проекта](https://github.com/Rinattttt/Beekeeper-s_diary/wiki)
 
-  [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+  [Релиз проекта](https://github.com/Rinattttt/Beekeeper-s_diary/releases/tag/beekeepers-diary)
 
 ## 📑 Оглавление
 1. [Описание проекта](#описание-проекта)
